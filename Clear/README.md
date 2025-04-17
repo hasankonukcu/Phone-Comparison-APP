@@ -1,16 +1,21 @@
-# compare_app
+# CompareApp - Smart Phone Comparison Tool 📱⚖️
 
-A new Flutter project.
+**CompareApp** is the ultimate phone comparison tool designed to help you make informed decisions when choosing your next smartphone. Instantly compare devices side by side and explore detailed specs, pros & cons, and user-friendly breakdowns.
 
-## Getting Started
+📲 [Download on Google Play](https://play.google.com/store/apps/details?id=com.bonjour.compare_app)
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- 📊 Side-by-side smartphone comparisons  
+- 🔍 Detailed tech specs & feature breakdowns  
+- ✅ Pros & Cons analysis for each device  
+- 🌐 Offline mode supported  
+- 🧠 Simple, fast and intuitive interface
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Ideal For
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 📱 Tech enthusiasts
+- 💡 Shoppers looking to buy a new phone
+- 📊 Content creators reviewing devices
+
+> All screenshots are taken directly from the Play Store version.
